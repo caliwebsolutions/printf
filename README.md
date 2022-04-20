@@ -73,6 +73,7 @@ Integer: printf("%i", 5); Output: 5
 ## Authors
 ---
 - [Oloko Sodiq Opeyemi](https://github.com/Caliwebsolutions)
+- [Folorunso Olaoluwa Hezekiah](https://github.com/Excelola)
 
 ## Acknowledgements
 ---
